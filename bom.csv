@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"U1",1," Temperature Sensor [TMP36]"
+"U2",1," Arduino Uno R3"
+"SEN1",1," Soil Moisture Sensor"
+"U3",1,"MCP23008-based, 32 LCD 16 x 2 (I2C)"
+"Q1",1," Ambient Light Sensor [Phototransistor]"
+"R1",1,"1 kΩ Resistor"
+"U4",1," Wifi Module (ESP8266)"
